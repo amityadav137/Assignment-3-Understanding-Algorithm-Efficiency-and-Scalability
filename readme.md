@@ -4,8 +4,8 @@
 
 1. **Clone or Download the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/amityadav137/Assignment-3-Understanding-Algorithm-Efficiency-and-Scalability.git
+   cd Assignment-3-Understanding-Algorithm-Efficiency-and-Scalability
    ```
 
 2. **Install Required Libraries**:
